@@ -41,4 +41,4 @@ Este projeto foi desenvolvido com o objetivo de proporcionar uma ferramenta úti
 
 ## Contato
 
-Para mais informações, entre em contato pelo e-mail: [contato@timesbrasil.com](mailto:contato@timesbrasil.com)
+Para mais informações, entre em contato pelo e-mail: [flavioleandro@timesbrasil.com](mailto:flavioleandro@timesbrasil.com)
